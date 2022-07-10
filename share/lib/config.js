@@ -15,7 +15,7 @@ const CONFIG_DEFAULT = {
     'nav-opacity': 1,
     'nav-bg': 'rgba(31, 31, 31, 1)',
     'nav-fg': '#ddd',
-    'header-bg': 'rgba(0, 0, 0, 1)',
+    'header-bg': 'rgba(50, 50, 50, 0.5)',
     'dropdown-bg': 'rgba(31, 31, 31, 1)',
     'dropdown-fg': '#ddd',
     'content-bg': '', // URL
@@ -23,7 +23,7 @@ const CONFIG_DEFAULT = {
     'content-bg-opacity': 1,
     'content-bg-filter': '',
     'content-fg': '#eee',
-    'cell-bg': 'rgba(255, 255, 255, 1)',
+    'cell-bg': 'rgba(25, 25, 25, 1)',
     'my-row-fg': 'rgba(179, 229, 252, 1)',
     'content-align': 'center',
     'color-accent': '#00ccff',
